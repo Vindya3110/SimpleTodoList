@@ -1,0 +1,14 @@
+body{
+    background-image:linear-gradient(darkorchid,yellowgreen);
+    /* background-color: blueviolet; */
+    
+}
+.box{
+    background-color: white;
+    /* background-image: linear-gradient(); */
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-left: 570px;
+  width: 20%;
+  height: 500px;
+}
